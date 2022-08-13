@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ejemplo {
+public class ejemplo {
+
+    public String name;
+    public String documento;
 }
